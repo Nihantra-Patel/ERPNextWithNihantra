@@ -13,3 +13,9 @@
 #### 3. Transfer Attachments Between DocTypes in ERPNext | doc_event & frappe.call()
 
 [![Get Attachments One DocType To Another DocType Using doc_event And frappe call()](https://github.com/Nihantra-Patel/CTwithNCP/assets/141945075/55753111-442f-410f-8724-c4f444ab4717)](https://youtu.be/KHh5l_XWIKI)
+
+#
+#### 4. Fetch Data From One DocType To Another
+
+[![Fetch Data From One DocType To Another](https://github.com/Nihantra-Patel/CTwithNCP/assets/141945075/f8397662-47d0-43ee-9cbf-20432325e79d)](https://youtu.be/iBRWSDRDqK4)
+
