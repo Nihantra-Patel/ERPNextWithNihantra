@@ -1,4 +1,4 @@
-# Welcome to Community Talks with Nihantra!
+# Welcome to ERPNext Solutions with Nihantra!
 
 #### 1. How to Quickly Update Item Prices in Frappe/ERPNext Using ListView Client Script | Part 1
 
