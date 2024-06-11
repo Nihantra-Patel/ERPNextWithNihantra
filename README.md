@@ -19,3 +19,7 @@
 
 [![Fetch Data From One DocType To Another](https://github.com/Nihantra-Patel/CTwithNCP/assets/141945075/f8397662-47d0-43ee-9cbf-20432325e79d)](https://youtu.be/iBRWSDRDqK4)
 
+#
+#### 4. Populate Data From One DocType To Another Using frappe.new_doc
+
+[![Populate Data From One DocType To Another](https://github.com/Nihantra-Patel/ERPNextWithNihantra/assets/141945075/6ad4070e-010d-47f7-a71b-680096054acd)](https://www.youtube.com/watch?v=bQLfKHxgqYo)
